@@ -13,8 +13,8 @@ class TVCardServices extends LitElement {
   }
 
   static async getConfigElement() {
-    await import("./tv-card-editor.js");
-    return document.createElement("tv-card-editor");
+    await import("./tv-card-kicur-editor.js");
+    return document.createElement("tv-card-kicur-editor");
   }
 
   static getStubConfig() {
@@ -335,4 +335,4 @@ class TVCardServices extends LitElement {
   }
 }
 
-customElements.define("tv-card", TVCardServices);
+customElements.define("tv-card-kicur", TVCardServices);
