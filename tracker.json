@@ -1,8 +1,8 @@
 {
   "tv-card-kicur": {
-    "updated_at": "2019-06-16",
+    "updated_at": "2019-07-08",
     "version": "0.1",
-    "remote_location": "https://github.com/jkocon/tv-card/tv-card/releases/download/v0.0.9/tv-card-kicur.js",
+    "remote_location": "https://github.com/jkocon/tv-card/releases/download/0.1/tv-card-kicur.js",
     "visit_repo": "https://github.com/jkocon/tv-card/",
     "changelog": "https://github.com/jkocon/tv-card/releases/latest"
   }
